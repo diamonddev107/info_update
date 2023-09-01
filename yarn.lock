@@ -5192,9 +5192,9 @@ crypto-browserify@3.12.0, crypto-browserify@^3.11.0:
     randomfill "^1.0.3"
 
 crypto-js@^3.1.4, crypto-js@^3.1.5:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/crypto-js/-/crypto-js-3.2.0.tgz#abe124867e49d2695e20fea091728276a9f761c0"
-  integrity sha512-J6LOZ2Iha4akgCwqTrZsCLdA5y/kJ1MxRoGzs/xtIfFSaLSs1gENHznVjYEzWZfunzt9yiViXq8bO1RyT1euhg==
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/crypto-js/-/crypto-js-3.3.0.tgz#846dd1cce2f68aacfa156c8578f926a609b7976b"
+  integrity sha512-DIT51nX0dCfKltpRiXV+/TVZq+Qq2NgF4644+K7Ttnla7zEzqc+kjJyiB96BHNyUTBxyjzRcZYpUdZa+QAqi6Q==
 
 css-blank-pseudo@^0.1.4:
   version "0.1.4"
